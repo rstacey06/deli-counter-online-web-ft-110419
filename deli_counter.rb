@@ -1,14 +1,12 @@
-array = []
+deli = [] #deli is array
 
-def line(array) 
-  if array.empty? 
+def line(deli) 
+  if deli.empty? 
     puts "The line is currently empty."
-    
   end 
 end 
 
-
-def take_a_number(array,person)
+def take_a_number(deli,person)
   
 
 end
