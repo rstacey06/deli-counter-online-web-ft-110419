@@ -1,7 +1,7 @@
-deli = []
+array = []
 
-def line(deli) 
-  if line 
+def line(array) 
+  if array 
     return "The line is currently empty."
   end 
 end 
