@@ -7,7 +7,8 @@ def line(deli)
 end 
 
 def take_a_number(deli,person)
-  
+  if line > 0 
+    puts 
   
 
 end
