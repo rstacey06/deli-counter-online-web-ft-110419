@@ -7,7 +7,7 @@ def line(deli)
 end 
 
 def take_a_number(deli,person)
-  if line > 0 
+  if deli > 0 
     puts "Welcome, #{name}. You are number #{deli.length} in line."
   end
 end
