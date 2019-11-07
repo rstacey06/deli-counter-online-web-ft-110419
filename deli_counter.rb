@@ -8,7 +8,7 @@ def line(deli)
     deli.each.with_index(1) do |person, index|
       updated_line << " #{index}. #{person}"
     end
-    puts new_line
+    puts updated_line
   end 
 end 
 
