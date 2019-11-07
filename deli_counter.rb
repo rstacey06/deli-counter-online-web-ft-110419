@@ -8,9 +8,8 @@ end
 
 def take_a_number(deli,person)
   if line > 0 
-    puts 
-  
-
+    puts "Welcome, #{name}. You are number #{number} in line."
+  end
 end
 
   
